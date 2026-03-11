@@ -1,0 +1,81 @@
+body {
+  background-image: url("OIP.jpg");
+  background-size: cover;2
+  background-position: center;
+  background-repeat: no-repeat;
+}/
+
+
+p {
+  color: aquamarine;
+ \\ background-color: rgba(210, 30, 180, 0.85);
+  border: 3px solid rgb(0, 0, 0);
+  padding: 12px;
+  max-width: 800px;
+  line-height: 1.5;
+}
+div{
+    color: aquamarine;
+    font-weight:200;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    margin-left:auto;
+    margin-right:auto;
+    width: 80%; 
+}
+  /*class selector*/
+  /* .c1{
+    color: rgb(224, 210, 210);
+    font-size: 20px;
+    font-weight: 500;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border: 10px solid rgb(184, 172, 172)1;
+  }
+
+  .c21{
+    color: rgb(155, 16, 16);
+    font-size: 20px;
+    font-weight: 500;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }*
+  /*id selector*/
+  /* #p1{
+    color: burlywood;
+     font-size: large;
+    background-color: bisque;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        border: 10px solid rgb(184, 172, 172);
+}
+  #p2{
+   color: rgb(224, 210, 210);
+    font-size: 20px;
+    font-weight: 500;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border: 10px solid rgb(184, 172, 172);
+  }
+  #p3{
+    color: rgb(155, 16, 16);
+    font-size: 20px;
+    font-weight: 500;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+  #p4{
+    color: rgb(255, 175, 175);
+    font-size: 20px;
+    font-weight: 500;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border: 10px solid rgb(184, 172, 172);
+  } */
+   /*universal selector*/
+
+   *{
+    color :cadetblue;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+    font-weight: 200;
+}
+body{
+    background-image: url("image1.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
